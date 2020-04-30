@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588263224290.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4D2D1026",
+    "lastKnownWriteTime" : 1588264354,
+    "last_content_update" : 1588264354694,
+    "path" : "E:/coursera/Rproject/FirstRProject/normalSampleProject.R",
+    "project_path" : "normalSampleProject.R",
+    "properties" : {
+        "cursorPosition" : "0,43",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

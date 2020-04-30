@@ -1,0 +1,1 @@
+print("migrating normal project to Github")
